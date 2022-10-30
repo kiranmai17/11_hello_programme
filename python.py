@@ -6,5 +6,5 @@ AUTHOR= KIRANMAI
 '''
 print("hello") #hello
 print("kiranmai") #kiranmai
-print("enjoy the weekend") #enjoy the weekend
+print("enjoying movie") #enjoying the movie
 
